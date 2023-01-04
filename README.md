@@ -1,10 +1,10 @@
 # Hi there 👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=35&duration=7000&pause=1000&width=500&lines=I'm+Nastasya%2C+QA+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=30&duration=6000&pause=100000&width=500&lines=I'm+Nastasya%2C+QA+engineer)](https://git.io/typing-svg)
 
 
 
 ### Languages & Tools
- ![HTML](https://img.shields.io/badge/-html-30b898?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-3056b8?style=for-the-badge&logo=css3) ![Jira](https://img.shields.io/badge/-Jira-808080?style=for-the-badge&logo=jira) ![Confluense](https://img.shields.io/badge/-Confluense-e3e3e3?style=for-the-badge&logo=confluense) ![MySQL](https://img.shields.io/badge/-MySQL-e3e3e3?style=for-the-badge&logo=mysql) ![GIT](https://img.shields.io/badge/-GIT-30b898?style=for-the-badge&logo=git) 
+ ![HTML](https://img.shields.io/badge/-html-30b898?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-3056b8?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/-bootstrap-ad99ba?style=for-the-badge&logo=bootstrap) ![Jira](https://img.shields.io/badge/-Jira-808080?style=for-the-badge&logo=jira) ![Confluense](https://img.shields.io/badge/-Confluense-e3e3e3?style=for-the-badge&logo=confluense) ![MySQL](https://img.shields.io/badge/-MySQL-e3e3e3?style=for-the-badge&logo=mysql) ![GIT](https://img.shields.io/badge/-GIT-30b898?style=for-the-badge&logo=git) ![C++](https://img.shields.io/badge/-C++-3056b8?style=for-the-badge&logo=C%2b%2b) 
 
 
 ### Reach me on
