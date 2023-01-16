@@ -8,5 +8,5 @@
 
 
 ### Reach me on
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/rnastasyaa)](https://t.me/rnastasyaa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nastasyar21@gmail.com)](mailto:nastasyar21@gmail.com)  [![Website Badge](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=Website&logoColor=white&link=https://rnastasya.github.io/personal-website/)](https://rnastasya.github.io/personal-website/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/rnastasyaa)](https://t.me/rnastasyaa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nastasyar21@gmail.com)](mailto:nastasyar21@gmail.com)  [![Website Badge](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=Website&logoColor=white&link=https://rnastasya.github.io/personal-website/)](https://rnastasya.github.io)
 
